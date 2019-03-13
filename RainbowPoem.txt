@@ -1,3 +1,4 @@
 VIBGYOR
 Violet
 Indigo
+Blue
